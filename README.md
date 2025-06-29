@@ -13,11 +13,6 @@ A vibrant Streamlit web app for real-time object detection and tracking in video
 
 🛠 Installation
 
-Clone Repository:
-git clone https://github.com/your-username/yolo-streamlit-app.git
-cd yolo-streamlit-app
-
-
 Install Dependencies:
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
